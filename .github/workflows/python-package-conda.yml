@@ -20,7 +20,7 @@ jobs:
         echo $CONDA/bin >> $GITHUB_PATH
     - name: Install dependencies
       run: |
-        pip install scrapy
+        pip install scrapy pandas numpy 
     - name: Start scrapy
       run: |
         scrapy crawl footmate
