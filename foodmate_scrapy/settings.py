@@ -17,7 +17,7 @@ hege = ''
 #'2015-01-12'
 timebegin = '2015-01-12'
 
-scrapy_end_time = '2015-01-20'
+scrapy_end_time = '2020-12-30'
 
 page = 1
 
