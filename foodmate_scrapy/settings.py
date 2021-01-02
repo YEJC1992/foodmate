@@ -10,14 +10,14 @@
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 #1805-酱油 1806-食醋 1807-味精 
-catidname = '1805'
+catidname = '1806'
 #1-合格 2-不合格 ''全部
 hege = ''
 #开始时间 一个周一个周的范围搜索
 #'2015-01-12'
-timebegin = '2020-01-01'
+timebegin = '2015-01-12'
 
-scrapy_end_time = '2021-01-01'
+scrapy_end_time = '2016-01-01'
 
 page = 1
 
